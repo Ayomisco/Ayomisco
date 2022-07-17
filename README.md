@@ -6,10 +6,10 @@ Here are some ideas to get you started:
  -->
 
 - 👋 Hi! I'm Ayomide Francis - Akinlolu (Ayomisco)
-- 🔭 I'm a skillful professional Web Developer with expertise in robust programming languages such as HTML, CSS, JavaScript, PHP, Python and Django
+- 🔭 I'm a Junior Software with expertise in robust programming languages such as HTML, CSS, JavaScript, PHP, Python and Django
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on ...
-- 👨‍💻 All of my projects are available at [My Portfolio]()
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ayomideportfolio.herokuapp.com/)
 
 <!-- - 🤔 I’m looking for help with ... -->
 
@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Learning is ever easy when you know what you're doing.
 - 📝 I regularly write articles on Hashnode @ayomisco
-
-s
