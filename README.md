@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 👋 Hi! I'm Ayomide Francis - Akinlolu (Ayomisco)
-- 🔭 I'm a skillful Intermediate Web Developer with knowledge in robust programming languages such as HTML, CSS, JavaScript, PHP, Python and Django
+- 🔭 I'm a skillful Backend Developer with knowledge in robust programming languages such as HTML, CSS, JavaScript, PHP, Python and Django Rest Framework
 - 🌱 I’m currently learning ReactJS
 - 📄 I'm currently studying software engineering in ALX
 - 👯 I’m looking to collaborate on ...
